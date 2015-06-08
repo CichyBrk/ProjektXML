@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Name>Potop</Name>
+    <Author>Henryk Sienkiewisz</Author>
+    <PublicationYear>1890</PublicationYear>
+    <Leanguage>Niemiecki</Leanguage>
+    <Type>Powieść</Type>
+    <Avibility>Dostępna</Avibility>
+  </Book>
+  <Book>
+    <Name>Kamienie na szaniec</Name>
+    <Author>Aleksander Kamiński</Author>
+    <PublicationYear>2010</PublicationYear>
+    <Type>Literatura faktu</Type>
+    <Leanguage>Niemiecki</Leanguage>
+    <Avibility>Dostępna</Avibility>
+  </Book>
+  <Book>
+    <Name>a</Name>
+    <Author>a</Author>
+    <PublicationYear>1</PublicationYear>
+    <Type>a</Type>
+    <Leanguage>a</Leanguage>
+    <Avibility>Dostępna</Avibility>
+  </Book>
+  <Book>
+    <Name>a</Name>
+    <Author>a</Author>
+    <PublicationYear>1</PublicationYear>
+    <Type>a</Type>
+    <Leanguage>a</Leanguage>
+    <Avibility>Dostępna</Avibility>
+  </Book>
+  <Book>
+    <Name>Karcia</Name>
+    <Author>S</Author>
+    <PublicationYear>1994</PublicationYear>
+    <Type>Finanse</Type>
+    <Leanguage>Ciała</Leanguage>
+    <Avibility>Dostępna</Avibility>
+  </Book>
+  <Book>
+    <Name>Franek</Name>
+    <Author>koks</Author>
+    <PublicationYear>1999</PublicationYear>
+    <Type>dramat</Type>
+    <Leanguage>ciała</Leanguage>
+    <Avibility>Dostępna</Avibility>
+  </Book>
+  <Book>
+    <Name>Przedwiośnie</Name>
+    <Author>Stefan Żeromski</Author>
+    <PublicationYear>1990</PublicationYear>
+    <Type>Powieść123</Type>
+    <Leanguage>Angielski</Leanguage>
+    <Avibility>Niedostępna</Avibility>
+  </Book>
+</Library>
